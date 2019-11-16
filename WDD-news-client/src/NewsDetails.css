@@ -1,0 +1,11 @@
+.NewsList-newsitem-content img{
+	float: left; display: inline; width: 250px; height: 250px;
+}
+
+.NewsList-newsitem-source p {
+	float: left; display: inline;
+}
+
+.card-subtitle span {
+	margin-right: 10px;
+}
